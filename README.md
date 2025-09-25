@@ -1,2 +1,2 @@
 # hypernos.org
-Strona główna
+Strona internetowa
